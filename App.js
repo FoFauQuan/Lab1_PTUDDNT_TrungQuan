@@ -8,12 +8,12 @@ import BT6 from "./src/BT6";
 import BT7 from "./src/BT7";
 import BT8 from "./src/BT8";
 import Maytinh from "./src/Maytinh";
-import Caculator from "./src/Caculator";
+import Calculator from "./src/Calculator";
 
 
 const App =  () =>{
   return(
-        <Caculator/>
+        <Calculator/>
   )
 }
 export default App;
